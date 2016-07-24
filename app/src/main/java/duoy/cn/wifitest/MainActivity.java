@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         context = this;
 
         isWifiConnected(this);
+        //测试新版本
     }
 
     public void isWifiConnected(Context context){
